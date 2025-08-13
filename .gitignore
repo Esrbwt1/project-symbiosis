@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files - We don't commit raw data to the repo
+data/
+
+# IDE specific
+.idea/
+.vscode/
